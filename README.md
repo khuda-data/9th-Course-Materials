@@ -23,17 +23,17 @@ python 세션은 ML 세션 2주차부터 진행 (`"ML Week 2" == "python Week 1"
 | 17:50 ~ 18:00 | 10분 | 쉬는시간 |
 | 18:00 ~ 18:20 | 20분 | 나작무 + 개인발제 |
 | 18:20 ~ 18:40 | 20분 | 교육부 자율 진행 |
-| 18:40 ~ 19:00 | 15분 + 5분 | (팀끼리) Quiz 및 해설 |
+| 18:40 ~ 19:00 | 15+5분 | (팀끼리) Quiz 및 해설 |
 | 19:00 ~ 19:30 | 30분 | 코드 방탈출 |
 
 <br>
   
 
 ### 담당자
-| 이름 | 이메일 | 역할 | 
+| 이름(깃허브) | 이메일 | 역할 | 
 | :---: | :--- | :--- |
-| 양경식 | sondin144@gmail.com | [ML 코드 방탈출](./ml-code/) 제작 |
-| 김회광 | wkk021121@gmail.com | [python 세션](./python/) 제작 |
-| 표지훈 | pyojihun80@gmail.com | [ML 퀴즈](./ml-quiz/) 제작 |
+| [양경식](https://github.com/gaeng02) | sondin144@gmail.com | [ML 코드 방탈출](./ml-code/) 제작 |
+| [김회광](https://github.com/kwang-i-coder) | wkk021121@gmail.com | [python 세션](./python/) 제작 |
+| [표지훈](https://github.com/JihunPyo) | pyojihun80@gmail.com | [ML 퀴즈](./ml-quiz/) 제작 |
 
 자료와 관련된 문의는 해당 담당자에게 연락바랍니다.
